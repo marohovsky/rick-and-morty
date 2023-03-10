@@ -1,0 +1,14 @@
+@import '../../style/variables.scss';
+.AppHeader{
+    display: flex;
+    align-items: center;
+}
+.title{
+    color: $dark;
+    font-size: 60px;
+    font-weight: 800;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
